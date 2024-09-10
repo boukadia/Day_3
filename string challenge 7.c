@@ -1,7 +1,7 @@
 // converter le maniscule a majuscules
 #include<stdio.h>
 int main(){
-    char tab[]="bouAadia";
+    char tab[]="boukadia";
 
     for (int i=0;i<8;i++){
         if(tab[i]>=97&&tab[i]<122)
@@ -11,5 +11,5 @@ int main(){
 
 
     }
-    
+    return 0;
 }
