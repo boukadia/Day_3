@@ -8,6 +8,7 @@ int main(){
         printf("%c",tab[i]-32);
         else 
         printf("%c",tab[i]);
+        
 
 
     }
